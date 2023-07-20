@@ -20,3 +20,27 @@
 
 #### 1. Scatter Plot With Linear Regression of Northern Hemisphere: Temperature vs. Latitude
 ![Alt text](/WeatherPy/Images/nh_lat_temp_regression.png)
+
+#### 2. Scatter Plot With Linear Regression of Southern Hemisphere: Temperature vs. Latitude
+![Alt text](/WeatherPy/Images/sh_lat_temp_regression.png)
+
+#### 3. Scatter Plot With Linear Regression of Northern Hemisphere: Humidity vs. Latitude
+![Alt text](/WeatherPy/Images/nh_lat_humid_regression.png)
+
+#### 4. Scatter Plot With Linear Regression of Southern Hemisphere: Humidity vs. Latitude
+![Alt text](/WeatherPy/Images/sh_lat_humid_regression.png)
+
+
+## Part 2: VacationPy
+#### 5. Scatter Plot With Linear Regression of Northern Hemisphere: Cloudiness vs. Latitude
+![Alt text](/WeatherPy/Images/nh_lat_clouds_regression.png)
+
+#### 6. Scatter Plot With Linear Regression of Southern Hemisphere: Cloudiness vs. Latitude
+![Alt text](/WeatherPy/Images/sh_lat_clouds_regression.png)
+
+#### 7. Scatter Plot With Linear Regression of Northern Hemisphere: Wind Speed vs. Latitude
+![Alt text](/WeatherPy/Images/nh_lat_wind_regression.png)
+
+#### 8. Scatter Plot With Linear Regression of Southern Hemisphere: Wind Speed vs. Latitude
+![Alt text](/WeatherPy/Images/sh_lat_wind_regression.png)
+
