@@ -44,3 +44,12 @@
 #### 8. Scatter Plot With Linear Regression of Southern Hemisphere: Wind Speed vs. Latitude
 ![Alt text](/WeatherPy/Images/sh_lat_wind_regression.png)
 
+## Part 2: VacationPy
+
+#### 1.Create a map that displays a point for every city in the city_data_df DataFrame 
+
+#### 2.Narrow down the city_data_df DataFrame to find your ideal weather condition
+
+#### 3.For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates
+
+#### 4.Add the hotel name and the country as additional information in the hover message for each city in the map.
